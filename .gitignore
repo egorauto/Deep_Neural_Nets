@@ -6,4 +6,4 @@
 *.gz
 *.DS_Store
 .vscode
-.npy
+*.npy
